@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "cuis.aternos.me:49321",
+    "ip": "cuis.aternos.me",
     "port": 49321,
     "version": "",
     "try-creative": false
